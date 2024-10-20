@@ -1,0 +1,7 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore other common files like __pycache__ and .DS_Store
+__pycache__/
+*.py[cod]
+.DS_Store
